@@ -1,0 +1,16 @@
+table, th, td {
+  border: 1px solid black;
+}
+
+form *{
+  padding: 3px;
+  margin: 3px;
+}
+
+div,table, form {
+  margin: 40px;
+}
+
+td {
+  padding: 10px;
+}
